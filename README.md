@@ -11,39 +11,33 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm an AI/ML engineer passionate about building intelligent systems that solve real-world problems.  
-    With a strong foundation in machine learning, embedded systems, and software development,  
-    I create solutions that combine data, automation, and hardware integration.
+    I'm an AI/ML engineer focused on building intelligent systems that solve real-world problems.  
+    I combine machine learning with embedded systems to create efficient, scalable, and practical solutions.
   </p>
 
   <p>
-    I enjoy working on projects involving computer vision, deep learning, and smart embedded devices—  
-    turning ideas into scalable and efficient AI-powered applications.
+    My work includes computer vision, deep learning models, and smart hardware systems using microcontrollers.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_&_Embedded_Projects)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/⚡_Building_Intelligent_Systems-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_&_Embedded)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/⚡_Building_AI_Systems-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="#">
+  <a href="https://github.com/YOUR-USERNAME">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="#">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -55,46 +49,35 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=python,c" />
+<img src="https://skillicons.dev/icons?i=python,c" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-   <h3>🤖 AI / ML</h3>
-<img src="https://skillicons.dev/icons?i=python" />
-<p>Machine Learning • Deep Learning • AI</p>
+<h3>🤖 AI / ML</h3>
+
+<p>Machine Learning • Deep Learning • Artificial Intelligence</p>
+
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-  <h3>⚙️ Embedded Systems</h3>
-    <p>ESP32 • Arduino • Microcontrollers • IoT Systems</p>
-<br/><br/>
+<h3>⚙️ Embedded Systems</h3>
+
+<p>PIC • Raspberry Pi • STM32 • Arduino</p>
+
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode" />
+<h3>🧰 Tools & Platforms</h3>
+
+<p>MPLAB • Proteus • Arduino IDE • Git • VS Code</p>
+
 </td>
 </tr>
 </table>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
 ---
-
-## ❤️ Support Me
-
-<p align="center">
-  <a href="#">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
